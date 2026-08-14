@@ -1,6 +1,17 @@
 # gg_statistics_ex
 통계 기본 실습
 
+# 단축키
+
+text 셀 -> code 셀 : [esc -> y]
+code -> text 셀 : [esc -> m]
+실행 : ctrl + enter
+실행 + 다음셀로 커서 이동 : shift + enter
+셀 삭제 : esc -> dd
+되돌리기 : z
+현재 셀의 위쪽에 셀 추가 : [esc -> a]
+현재 셀의 아래쪽에 셀 추가 : [esc -> b]
+
 명령어
 
 # git 레포지토리 만들기
